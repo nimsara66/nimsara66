@@ -26,7 +26,7 @@
 
 <!-- - 📝 I regularly write articles on [TODO](TODO) -->
 
-<a src="nimsara66@gmail.com"><span>- 📫 How to reach me </span><img src="https://img.icons8.com/fluency/96/000000/gmail.png"/></a>
+<a src="nimsara66@gmail.com"><span>- 📫 How to reach me </span><img width=20 height=20 src="https://img.icons8.com/fluency/96/000000/gmail.png"/></a>
 
 <!-- - 📄 Know about my experiences [TODO](TODO) -->
 
