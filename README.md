@@ -34,9 +34,11 @@
 
 <h3 align="center" style="color: #333">Connect with me 🙂</h3>
 <p align="center" style="display: flex; align-items: center; justify-content: center;">
-<a style="display: inline-block; margin-right: 25px;" href="https://linkedin.com/in/nimsara66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="todo" height="40" width="40" /></a>
-<a style="display: inline-block; margin-right: 25px;" href="https://www.facebook.com/mihindukulasuria.fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todo" height="40" width="40" /></a>
-<a style="display: inline-block; margin-right: 25px;" href="https://instagram.com/nimsara_sudeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todo" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/nimsara66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="todo" height="40" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/mihindukulasuria.fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todo" height="40" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/nimsara_sudeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todo" height="40" width="40" /></a>
 </p>
 
 #
