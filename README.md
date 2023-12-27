@@ -9,26 +9,26 @@
 </p>
 
 <p align="center">
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
+<!--  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png"> -->
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimsara66&layout=compact&title_color=333&text_color=333&icon_color=333&border_color=f5f5f5&custom_title=Languages" /> 
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
+<!--  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png"> -->
 </p>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimsara66&theme=oldie" alt="nimsara66" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=nimsara66&bg_color=fffefe&color=333&line=333">
-</p>
+</p> -->
 
-<!-- - 👨‍💻 All of my projects are available at [TODO](TODO) -->
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.nimsarafernando.com)
 
-<!-- - 📝 I regularly write articles on [TODO](TODO) -->
+- 📝 I regularly write articles on [Medium](https://medium.com/@nimsara66)
 
 <a href="mailto:nimsara66@gmail.com"><span>- 📫 How to reach me </span><img width=20 height=20 src="https://img.icons8.com/fluency/96/000000/gmail.png"/></a>
 
-<!-- - 📄 Know about my experiences [TODO](TODO) -->
+- 📄 Know about my experiences [Skills & Experiences](https://www.nimsarafernando.com/#skills)
 
 <!-- - ⚡ Fun fact **TODO** -->
 
